@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ControlFechas()
+comment1.params=
+comment1.target=java.lang.String\ getFechaActual()
+comment10.params=fecha
+comment10.target=int[]\ desglosarFecha(java.lang.String)
+comment2.params=year\ month\ day
+comment2.target=int\ getEdad(int,\ int,\ int)
+comment3.params=fechaNac
+comment3.target=int\ getEdad(java.util.Calendar)
+comment4.params=year\ month\ day
+comment4.target=long[]\ getTiempoTanscurrido(int,\ int,\ int)
+comment5.params=fecha
+comment5.target=long[]\ getTiempoTanscurridoDias(java.util.Calendar)
+comment6.params=year1\ month1\ day1\ year2\ month2\ day2
+comment6.target=long[]\ getTiempoTanscurrido(int,\ int,\ int,\ int,\ int,\ int)
+comment7.params=fecha1\ fecha2
+comment7.target=long[]\ getTiempoTanscurridoDias(java.util.Calendar,\ java.util.Calendar)
+comment8.params=fecha\ year\ month\ day
+comment8.target=long[]\ getTiempoTanscurridoDias(java.util.Calendar,\ int,\ int,\ int)
+comment9.params=fecha
+comment9.target=boolean\ fechaValida(java.lang.String)
+numComments=11
